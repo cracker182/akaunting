@@ -1,0 +1,21 @@
+<?php
+return [
+    'total_incomes'             => 'Gesamteinkommen',
+    'receivables'               => 'Receivables',
+    'open_invoices'             => 'Offene Rechnungen',
+    'overdue_invoices'          => 'Überfällige Rechnungen',
+    'total_expenses'            => 'Gesamtausgaben',
+    'payables'                  => 'Payables',
+    'open_bills'                => 'Offene Eingangsrechnungen',
+    'overdue_bills'             => 'Überfällige Eingangsrechnungen',
+    'total_profit'              => 'Gesamtgewinn',
+    'open_profit'               => 'Offener Gewinn',
+    'overdue_profit'            => 'Überfälliger Gewinn',
+    'cash_flow'                 => 'Cash Flow',
+    'no_profit_loss'            => 'No Profit Loss',
+    'incomes_by_category'       => 'Einkommen nach Kategorie',
+    'expenses_by_category'      => 'Ausgaben nach Kategorie',
+    'account_balance'           => 'Kontostand',
+    'latest_incomes'            => 'Letztes Einkommen',
+    'latest_expenses'           => 'Letzte Ausgabe',
+];
