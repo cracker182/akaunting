@@ -1,0 +1,36 @@
+<?php
+return [
+    'api_token'       => 'Token',
+    'enter_api_token' => 'Geben Sie Ihr API-Token ein.',
+    'top_paid'        => 'Top Bezahlt',
+    'new'             => 'Neu',
+    'top_free'        => 'Top Kostenlos',
+    'free'            => 'Kostenlos',
+    'install'         => 'Installieren',
+    'buy_now'         => 'Jetzt Kaufen',
+    'faq'             => 'FAQ',
+    'changelog'       => 'Changelog',
+    'installed'       => 'Changelog',
+    'uninstalled'     => 'Changelog',
+    'enabled'  => ':module Modul aktiviert',
+    'disabled' => ':module Modul deaktiviert',
+    'installation' => [
+        'header'   => 'Modul Installation',
+        'start'    => ':module wird installiert.',
+        'download' => 'Lade :module Datei herunter.',
+        'unzip'    => 'Enpacke :module Dateien.',
+        'install'  => 'Lade :module Dateien hoch.',
+    ],
+    'history' => [
+        'installed'   => ':module installiert',
+        'uninstalled' => ':module deinstallieren',
+        'updated'     => ':module aktualisiert',
+        'enabled'     => ':module aktiviert',
+        'disabled'    => ':module deaktiviert',
+    ],
+    'button' => [
+        'uninstall' => 'Deinstallieren',
+        'disable'   => 'Deaktivieren',
+        'enable'    => 'Aktivieren',
+    ],
+];
